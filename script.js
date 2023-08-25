@@ -27,7 +27,7 @@ var jwDefaults = {
     "stagevideo": false,
     "stretching": "uniform",
     "width": "100%",
-    "height": "100vh",
+    "height": "93vh",
     cast: {"appid": "00000000"},
     "base": ".",
     androidhls: true
